@@ -54,7 +54,7 @@ void addNode() {
 		}
 		else 
 		{
-			START = newNode;
+			START = newNode; 
 		}
 	}
 }
