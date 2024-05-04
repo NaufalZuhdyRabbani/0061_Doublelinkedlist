@@ -95,4 +95,4 @@ void deleteNode()
 	{
 		cout << "\033[31mThe record with roll number " << rollNo << " not found\033[0m" << endl;
 		return;
-	}
+	} 
